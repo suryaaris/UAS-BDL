@@ -46,6 +46,15 @@ Saya membuat 4 tabel, diantaranya:
 Berisi customer_id, nama, alamat, dan no_telp
 ![DB DAN TB CUSTOMER - Copy](https://github.com/suryaaris/UAS-BDL/assets/173940200/5f3870ca-040c-48d9-91a7-616292a147e3)
 Pengisian data
+![TB CUSTOMER INSERT](https://github.com/suryaaris/UAS-BDL/assets/173940200/0205ff89-405b-4227-9bcc-eae9dc0f9b27)
+
+
+3. Tabel produk (produk)
+Berisi produk_id, nama_produk, harga, stok
+![TB PRODUK](https://github.com/suryaaris/UAS-BDL/assets/173940200/27cd20f3-b281-48af-86e8-6651804ce948)
+
+
+
 
 
 
