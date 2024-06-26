@@ -35,5 +35,7 @@ Dibuat untuk meningkatkan kinerja query pada kolom-kolom yang sering digunakan d
 
 Membuat database
 Database yang saya buat, saya namai dengan db_uas
+![DB](https://github.com/suryaaris/UAS-BDL/assets/173940200/a2b376fb-5c2a-40cc-9124-335eb66891e0)
+
 
 
