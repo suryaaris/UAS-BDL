@@ -4,12 +4,12 @@ Putu Aris Surya Kusuma - 2201010075
 
 
 
-ERD (Entity Relationship Diagram)
+1. ERD (Entity Relationship Diagram)
 
 ![image](https://github.com/suryaaris/UAS-BDL/assets/173940200/5ef715ba-f129-45a8-8112-d2a6328a690f)
 
 
-Deskripsi Proyek
+2. Deskripsi Proyek
 Projek basis data yang saya buat yakni membangun sistem basis data yang efisien dan terstruktur untuk mengelola data toko sayur, yang mencakup pelanggan, produk, pesanan, dan detail pesanan. Komponen yang digunakan yakni:
 
 Basis data
@@ -29,4 +29,11 @@ View: Menyediakan ringkasan pesanan.
 
 Index
 Dibuat untuk meningkatkan kinerja query pada kolom-kolom yang sering digunakan dalam pencarian dan join
+
+3. Penjelasan
+
+
+Membuat database
+Database yang saya buat, saya namai dengan db_uas
+
 
