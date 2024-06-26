@@ -38,4 +38,14 @@ Database yang saya buat, saya namai dengan db_uas
 ![DB](https://github.com/suryaaris/UAS-BDL/assets/173940200/a2b376fb-5c2a-40cc-9124-335eb66891e0)
 
 
+Membuat dan memasukkan data pada tabel
+Saya membuat 4 tabel, diantaranya:
+
+
+1. Tabel Customer (tb_customer)
+Berisi customer_id, nama, alamat, dan no_telp
+![DB DAN TB CUSTOMER - Copy](https://github.com/suryaaris/UAS-BDL/assets/173940200/5f3870ca-040c-48d9-91a7-616292a147e3)
+Pengisian data
+
+
 
